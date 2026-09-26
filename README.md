@@ -1,4 +1,5 @@
-💡 Lamba ve Kalp Animasyonu (Pygame)
+# 💡 Lamba ve Kalp Animasyonu (Pygame)
+![Lamba Kalp Animasyonu Demo](demo.gif)
 
 Bu proje, **Pygame** kütüphanesi kullanılarak geliştirilmiş interaktif bir animasyon uygulamasıdır. 
 
